@@ -14,7 +14,7 @@ Lightweight and runs in real-time
 
 📦 Requirements
 
-Python 3.10.x (MediaPipe does not support Python 3.11+)
+Python 3.10.x 
 
 OpenCV
 
